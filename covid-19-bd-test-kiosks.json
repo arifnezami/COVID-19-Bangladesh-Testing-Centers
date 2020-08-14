@@ -1,0 +1,372 @@
+[
+  {
+    "Number of Kiosks": 4,
+    "Name of location": "BSMMU",
+    "Name of Kiosk": "Testing Kiosk @ BSMMU",
+    "Location": "Shahbag",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "P9QV+WV Dhaka, Bangladesh",
+    "Date of Kiosk delivery": "Apr 25, 2020",
+    "Date of service start": "May 1, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Shahid Suhrawardy Medical College",
+    "Name of Kiosk": "Testing Kiosk @ Shahid Suhrawardy College",
+    "Location": "Sher-E-Bangla Nagar",
+    "Lat-long": "23°46'10.1\"N 90°22'16.9\"E",
+    "If no lat/long: Plus Code": "Q99C+MG Dhaka, Bangladesh",
+    "Date of Kiosk delivery": "April 25",
+    "Date of service start": "May 1"
+  },
+  {
+    "Number of Kiosks": 2,
+    "Name of location": "Narayangonj city corporation",
+    "Name of Kiosk": "",
+    "Location": "Narayangonj",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "JG53+57 Narayanganj",
+    "Date of Kiosk delivery": "Apr 25, 2020",
+    "Date of service start": "May 1, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Sheikh Fazilatunnesa Memorial Hospital",
+    "Name of Kiosk": "Testing Kiosk @ Sheikh Fazilatunnesa Memorial Hospital",
+    "Location": "C/12,\n Nabinagar - Chandra Road, Near DEPZ Tetuibari, Kasimpur",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "X7G7+28 Chakrobarti",
+    "Date of Kiosk delivery": "Apr 30, 2020",
+    "Date of service start": "May 10, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
+    "Name of Kiosk": "Testing Kiosk @ Sheikh Hasina National Institute of Burn & Plastic Surgery",
+    "Location": "Bakshibazar",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "PCF2+JG Dhaka, Bangladesh",
+    "Date of Kiosk delivery": "May 7, 2020",
+    "Date of service start": "May 10, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Govt. Unani & Ayurvedic Medical College Hospital",
+    "Name of Kiosk": "Testing Kiosk @ Govt. Unani & Ayurvedic Medical College Hospital",
+    "Location": "Mirpur - 13",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "R93H+J6 Dhaka",
+    "Date of Kiosk delivery": "May 7, 2020",
+    "Date of service start": "May 11, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Uttara Adhunik Medical College",
+    "Name of Kiosk": "Testing Kiosk @ Uttara Adhunik Medical College",
+    "Location": "Uttara",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "V9FW+VM Dhaka",
+    "Date of Kiosk delivery": "May 7, 2020",
+    "Date of service start": "May 11, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Dhaka Reporters Unity",
+    "Name of Kiosk": "Testing Kiosk @ Dhaka Reporters Unity",
+    "Location": "Segun Bagicha",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "PCJ5+P6 Dhaka",
+    "Date of Kiosk delivery": "May 9, 2020",
+    "Date of service start": "May 11, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Paltan Community Center (DSCC)",
+    "Name of Kiosk": "Testing Kiosk @ Paltan Community Center (DSCC)",
+    "Location": "42 Naya Paltant, Dhaka",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "PCP8+4G Dhaka",
+    "Date of Kiosk delivery": "May 9, 2020",
+    "Date of service start": "May 11, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Bashabo Community Center (DSCC)",
+    "Name of Kiosk": "Testing Kiosk @ DSCC",
+    "Location": "Bashabo",
+    "Lat-long": "23°44'34.6\"N 90°25'39.1\"E",
+    "If no lat/long: Plus Code": "",
+    "Date of Kiosk delivery": "May 9, 2020",
+    "Date of service start": "May 11, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Moktijodha Advocate Kamrul Islam Community Center (DSCC)",
+    "Name of Kiosk": "Testing Kiosk @DSCC",
+    "Location": "Kamrangichar",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "P9CF+62 Dhaka",
+    "Date of Kiosk delivery": "May 9, 2020",
+    "Date of service start": "May 11, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Haji Jumman Community Center (DSCC)",
+    "Name of Kiosk": "Testing Kiosk @ Haji Jumman Community Center (DSCC)",
+    "Location": "Naya Bazar mor, Haji Roshid Lane",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "PC84+GF Dhaka",
+    "Date of Kiosk delivery": "May 9, 2020",
+    "Date of service start": "May 11, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "50 no Ward Jatrabari Community Center (DSCC)",
+    "Name of Kiosk": "",
+    "Location": "Shohid Faruqe Shorok, Jala Para, Jatrabari",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "",
+    "Date of Kiosk delivery": "May 9, 2020",
+    "Date of service start": "May 11, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Amligola Park and Community Centre",
+    "Name of Kiosk": "Testing Kiosk @ Amligola Park and Community Centre",
+    "Location": "Lalbag thana, near beribadh",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "P9CH+PP Dhaka",
+    "Date of Kiosk delivery": "May 5, 2020",
+    "Date of service start": "May 11, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Mitali Biddapith High School, Dayaganj",
+    "Name of Kiosk": "Testing Kiosk @ Mitali Biddapith High School, Dayaganj",
+    "Location": "Jatrabari",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "PC8F+M7 Dhaka",
+    "Date of Kiosk delivery": "May 5, 2020",
+    "Date of service start": "May 11, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "NICVD",
+    "Name of Kiosk": "Testing Kiosk @ NICVD",
+    "Location": "Sher-E-Bangla N",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "Q9C9+5V Dhaka",
+    "Date of Kiosk delivery": "May 11, 2020",
+    "Date of service start": "May 11, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Neuroscience Institute",
+    "Name of Kiosk": "Testing Kiosk @ Neuroscience Institute",
+    "Location": "Agargaon",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "Q9GC+C9 Dhaka",
+    "Date of Kiosk delivery": "May 11, 2020",
+    "Date of service start": "May 11, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Uttara High School (DNCC)",
+    "Name of Kiosk": "Testing Kiosk @ Uttara High School (DNCC)",
+    "Location": "Sector -07, Uttara",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "V9CW+CM Dhaka",
+    "Date of Kiosk delivery": "May 10, 2020",
+    "Date of service start": "May 14, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Asaduzzaman Khan Kamal Community Center (DNCC)",
+    "Name of Kiosk": "Testing Kiosk @ Asaduzzaman Khan Kamal Community Center (DNCC)",
+    "Location": "Modhubag, Mogbazar",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "QC56+9G Dhaka",
+    "Date of Kiosk delivery": "May 10, 2020",
+    "Date of service start": "May 14, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "10 no. Community Centre (DNCC)",
+    "Name of Kiosk": "Testing Kiosk @ 11 no. Community Centre (DNCC)",
+    "Location": "Mirpur",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "Q8VW+2V Gabtoli",
+    "Date of Kiosk delivery": "May 10, 2020",
+    "Date of service start": "May 14, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Suchona Community Centre (DNCC)",
+    "Name of Kiosk": "Testing Kiosk @ Suchona Community Centre (DNCC)",
+    "Location": "Mohammadpur",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "Q985+WH Dhaka",
+    "Date of Kiosk delivery": "May 10, 2020",
+    "Date of service start": "May 14, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Nobojagoron club",
+    "Name of Kiosk": "Testing Kiosk @ Nobojagoron club",
+    "Location": "Dokkhinkhan",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "WC36+2V Tongi",
+    "Date of Kiosk delivery": "May 10, 2020",
+    "Date of service start": "May 14, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Uttorkhan General Hospital (DNCC)",
+    "Name of Kiosk": "Testing Kiosk @ Uttorkhan General Hospital (DNCC)",
+    "Location": "Uttorkhan",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "VC9G+F7 Dhaka",
+    "Date of Kiosk delivery": "May 10, 2020",
+    "Date of service start": "May 14, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Ward 4 Community centre (DNCC)",
+    "Name of Kiosk": "Testing Kiosk @ Ward 4 Community centre (DNCC)",
+    "Location": "Mirpur13",
+    "Lat-long": "23°48'23.6\"N 90°22'45.0\"E",
+    "If no lat/long: Plus Code": "",
+    "Date of Kiosk delivery": "May 11, 2020",
+    "Date of service start": "May 14, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "National Institute of Traumatology and Orthopedic Rehabilitation",
+    "Name of Kiosk": "",
+    "Location": "Sher-E-Bangla Nagar",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "Q9FC+F5 Dhaka",
+    "Date of Kiosk delivery": "May 12, 2020",
+    "Date of service start": "May 14, 2020"
+  },
+  {
+    "Number of Kiosks": 2,
+    "Name of location": "Central Police Hospital",
+    "Name of Kiosk": "Testing Kiosk @ Central Police Hospital",
+    "Location": "Rajarbag",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "PCP8+7Q Dhaka",
+    "Date of Kiosk delivery": "May 14, 2020",
+    "Date of service start": "May 16, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Donipara Anowara Manat Girls School & College",
+    "Name of Kiosk": "Testing Kiosk @ Donipara Anowara Manat Girls School & College",
+    "Location": "Baunia bazar",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "V96R+74 Dhaka",
+    "Date of Kiosk delivery": "May 14, 2020",
+    "Date of service start": "May 18, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "National Press Club",
+    "Name of Kiosk": "Testing Kiosk @ National Press Club",
+    "Location": "18 Topkhana Ro",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "PCH4+QP Dhaka",
+    "Date of Kiosk delivery": "May 17, 2020",
+    "Date of service start": "May 19, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Holy Family Medical College",
+    "Name of Kiosk": "Testing Kiosk @ Holy Family Medical College",
+    "Location": "Eskaton Road",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "PCW3+M6 Dhaka",
+    "Date of Kiosk delivery": "May 17, 2020",
+    "Date of service start": "May 30, 2020"
+  },
+  {
+    "Number of Kiosks": 2,
+    "Name of location": "Jinjira 20 bed hospital",
+    "Name of Kiosk": "Testing Kiosk @ Jinjira 20 bed hospital",
+    "Location": "Jinjira",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "P94R+68 Keraniganj",
+    "Date of Kiosk delivery": "May 19, 2020",
+    "Date of service start": "May 20, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Savar Audhor Chondro Govt. High School",
+    "Name of Kiosk": "Testing Kiosk @ Savar Audhor Chondro Govt. High School",
+    "Location": "Thana road, Savar",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "R6QX+XJ Savar Union",
+    "Date of Kiosk delivery": "May 16, 2020",
+    "Date of service start": "May 20, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Shohid Ahsanullah Master Genarel hospital",
+    "Name of Kiosk": "Testing Kiosk @ Shohid Ahsanullah Master Genarel hospital",
+    "Location": "Tongi",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "VCV2+9V Tongi",
+    "Date of Kiosk delivery": "May 16, 2020",
+    "Date of service start": "May 20, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Shomorita Hospital (only for private doctors)",
+    "Name of Kiosk": "Testing Kiosk @ Shomorita Hospital (only for private doctors)",
+    "Location": "Panthopath",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "Q93P+33 Dhaka",
+    "Date of Kiosk delivery": "May 16, 2020",
+    "Date of service start": "May 23, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Kidney Hospital (NIKDU)",
+    "Name of Kiosk": "Testing Kiosk @ Kidney Hospital (NIKDU)",
+    "Location": "Shere-Bangla Nogar",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "Q9C9+JF Dhaka",
+    "Date of Kiosk delivery": "May 23, 2020",
+    "Date of service start": "May 31, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Bashundhara Media Complex",
+    "Name of Kiosk": "",
+    "Location": "",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "",
+    "Date of Kiosk delivery": "May 21, 2020",
+    "Date of service start": "May 31, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Dhaka Dental College",
+    "Name of Kiosk": "Testing Kiosk @ Dhaka Dental College",
+    "Location": "Mirpur",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "Q9XQ+J5 Dhaka",
+    "Date of Kiosk delivery": "May 16, 2020",
+    "Date of service start": "May 31, 2020"
+  },
+  {
+    "Number of Kiosks": 1,
+    "Name of location": "Officers' club",
+    "Name of Kiosk": "Testing Kiosk @ Officers' club",
+    "Location": "Baily road",
+    "Lat-long": "",
+    "If no lat/long: Plus Code": "PCR3+WX Dhaka",
+    "Date of Kiosk delivery": "May 23, 2020",
+    "Date of service start": "May 31, 2020"
+  }
+]
